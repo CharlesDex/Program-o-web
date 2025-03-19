@@ -1,0 +1,33 @@
+/*reset basico*/
+
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Estilizando o corpo */
+  body {
+      background-color: #030125; /* Fundo escuro */
+      color: white; /* Texto branco */
+      text-align: center; /* Centralizar conteúdo */
+      padding: 10px;
+  }
+  
+  /* Estilizando o título */
+  h1 {
+      font-size: 2.0em;
+      margin-bottom: 10px;
+  }
+  
+  /* Estilizando a imagem */
+  img {
+      width: 250px;
+      height: auto;
+      border-radius: 10px;
+      margin-top: 10px;
+      box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);
+  }
+  
